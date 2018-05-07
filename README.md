@@ -9,6 +9,8 @@ O objetivo deste trabalho é implementar um sistema desktop Java, utilizando o p
 > _Wagner Rodrigo da Silva_
 >
 > _Walkiria da Conceição Alves Negreiros_
+> _Denner Rondinely da Silva_
+
 
 ##### Informações sobre o trabalho: 
 
