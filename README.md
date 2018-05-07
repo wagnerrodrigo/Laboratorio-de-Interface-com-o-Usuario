@@ -6,10 +6,12 @@ O objetivo deste trabalho é implementar um sistema desktop Java, utilizando o p
 
 ##### Integrantes
 
-> _Wagner Rodrigo da Silva_
->
-> _Walkiria da Conceição Alves Negreiros_
-> _Denner Rondinely da Silva_
+_Wagner Rodrigo da Silva_
+
+_Walkiria da Conceição Alves Negreiros_
+
+_Denner Rondinely da Silva_
+
 
 
 ##### Informações sobre o trabalho: 
@@ -17,3 +19,4 @@ O objetivo deste trabalho é implementar um sistema desktop Java, utilizando o p
 [Informações sobre os outros grupos e demais trabalhos ](https://github.com/wagnerrodrigo/Laboratorio-de-Interface-com-o-Usuario/blob/master/Arquivos/Especifica%C3%A7%C3%B5es_Trabalho_1_2018.pdf)
 
 [Requisito levantados](https://github.com/wagnerrodrigo/Laboratorio-de-Interface-com-o-Usuario/blob/master/Arquivos/Requisitos%20da%20Imobili%C3%A1ria.md) <--- Sera modificado
+
