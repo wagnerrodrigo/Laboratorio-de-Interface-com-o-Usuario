@@ -17,9 +17,24 @@
 ### Controle de Imóveis
 
 + Cadastro de Imóveis
-  + Nome, CEP, Endereço, Tamanho(Metros quadrados), Área de ocupação(Cidade ou Campo), Valor, 
+  + Nome, CEP, Endereço, Tamanho(Metros quadrados), Área de ocupação(Cidade ou Campo), Valor, Disponibilidade.
 + Cadastro de Aluguel
+  + Nome do Cliente, valor, Data do Aluguel, Duração do aluguel,
 + Cadastro de Venda
+
+
+
+####Classes
+
+_**Cliente**_
+
+_**Imóvel**_
+
+_**Aluguel**_
+
+_**Venda**_
+
+
 
 
 
